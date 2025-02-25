@@ -1,4 +1,4 @@
-public class HW04 {
+public class GFieldMath {
     public static void main(String[] args) {
         System.out.println(getPolynomialDegree(0x3CF0));
         System.out.println(getPolynomialDegree(0x10000));
